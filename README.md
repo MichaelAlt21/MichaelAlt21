@@ -16,20 +16,27 @@ Matplotlib · Seaborn · PhiK · Git
 ### 🌐 Website Users Age Classification
 Модель многоклассовой классификации пользователей вебсайтов.
 
-**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib, math, json
+**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib
 
-[Repository →](https://github.com/MichaelAlt21/website_users_classification.git)
+[Repository🟠](https://github.com/MichaelAlt21/website_users_classification.git)
 
 ### 🍽 Moscow Restaurant Market Analysis
 EDA рынка общественного питания Москвы.
 
 **Stack:** Python, pandas, PhiK, seaborn
 
-[Repository →](https://github.com/MichaelAlt21/catering_moscow_analysis.git)
+[Repository🟠](https://github.com/MichaelAlt21/catering_moscow_analysis.git)
 
 ### 📉 Customer Churn Prediction
 Модель прогнозирования оттока клиентов.
 
-**Stack:** scikit-learn, Pipeline, Cross Validation
+**Stack:** scikit-learn
 
-[Repository →](...)
+[Repository🟠](...)
+
+### ✅ Commercial Click Classification
+Модель прогнозирования шанса клика пользователя на рекламное объявление.
+
+**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn
+
+[Repository🟠](https://github.com/MichaelAlt21/commercial_click_classification.git)
