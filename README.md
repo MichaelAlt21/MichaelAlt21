@@ -13,6 +13,13 @@ Matplotlib · Seaborn · PhiK · Git
 
 ## Projects
 
+### 🌐 Website Users Age Classification
+Модель многоклассовой классификации пользователей вебсайтов.
+
+**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib, math, json, category_encoders.
+
+[Repository →](MichaelAlt21/website_users_classification)
+
 ### 🍽 Moscow Restaurant Market Analysis
 EDA рынка общественного питания Москвы.
 
@@ -23,6 +30,6 @@ EDA рынка общественного питания Москвы.
 ### 📉 Customer Churn Prediction
 Модель прогнозирования оттока клиентов.
 
-**Stack:** scikit-learn, CatBoost, Pipeline, Cross Validation
+**Stack:** scikit-learn, Pipeline, Cross Validation
 
 [Repository →](...)
