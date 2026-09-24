@@ -12,7 +12,7 @@ Python · SQL · pandas · NumPy · scikit-learn ·
 Matplotlib · Seaborn · PhiK · Git
 
 ## Projects
----
+
 ### 🌐 Website Users Age Classification
 Модель многоклассовой классификации пользователей вебсайтов.
 
