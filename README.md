@@ -1,16 +1,28 @@
-## Hi there 👋
+# Vladislav - Data Science
 
-<!--
-**MichaelAlt21/MichaelAlt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist (+DA, BI & ML).
 
-Here are some ideas to get you started:
+Работаю с Python, SQL и классическим машинным обучением.
+Интересуюсь построением воспроизводимых ML-пайплайнов
+и прикладным анализом данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Python · SQL · pandas · NumPy · scikit-learn ·
+Matplotlib · Seaborn · PhiK · Git
+
+## Projects
+
+### 🍽 Moscow Restaurant Market Analysis
+EDA рынка общественного питания Москвы.
+
+**Stack:** Python, pandas, PhiK, seaborn
+
+[Repository →](...)
+
+### 📉 Customer Churn Prediction
+Модель прогнозирования оттока клиентов.
+
+**Stack:** scikit-learn, CatBoost, Pipeline, Cross Validation
+
+[Repository →](...)
