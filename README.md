@@ -25,7 +25,7 @@ EDA рынка общественного питания Москвы.
 
 **Stack:** Python, pandas, PhiK, seaborn
 
-[Repository →](...)
+[Repository →](https://github.com/MichaelAlt21/catering_moscow_analysis.git)
 
 ### 📉 Customer Churn Prediction
 Модель прогнозирования оттока клиентов.
