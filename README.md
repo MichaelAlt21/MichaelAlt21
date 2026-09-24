@@ -34,7 +34,7 @@ EDA рынка общественного питания Москвы.
 
 **Stack:** Python, numpy, pandas, matplotlib, seaborn, scikit-learn
 
-[Repository🟠](...)
+[Repository🟠](https://github.com/MichaelAlt21/customer_churn_prediction.git)
 
 ---
 ### ✅ Commercial Click Classification
