@@ -18,7 +18,7 @@ Matplotlib · Seaborn · PhiK · Git
 
 **Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib, math, json, category_encoders.
 
-[Repository →](../website_users_classification)
+[Repository →](/website_users_classification)
 
 ### 🍽 Moscow Restaurant Market Analysis
 EDA рынка общественного питания Москвы.
