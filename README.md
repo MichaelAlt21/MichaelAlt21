@@ -16,7 +16,7 @@ Matplotlib · Seaborn · PhiK · Git
 ### 🌐 Website Users Age Classification
 Модель многоклассовой классификации пользователей вебсайтов.
 
-**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib, math, json, category_encoders.
+**Stack:** Python, pandas, numpy, PhiK, matplotlib, seaborn, scikit-learn, joblib, math, json
 
 [Repository →](https://github.com/MichaelAlt21/website_users_classification.git)
 
