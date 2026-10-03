@@ -9,7 +9,7 @@ Data Scientist (+DA, BI & ML).
 ## Stack
 
 Python · SQL · pandas · NumPy · scikit-learn ·
-Matplotlib · Seaborn · PhiK · Git
+Matplotlib · Seaborn · PhiK · Git · Docker 
 
 ## Projects
 
